@@ -5,7 +5,7 @@
 - 🧑‍💻 Programming Languages I'm learning:
 ![Java](./img/java.png) ![Javascript](./img/js.png) ![Python](./img/python.png) ![C++](./img/cpp.png) ![C#](./img/cs.png) ![Kotlin](./img/kotlin.png)
 - 🗨️ Languages I'm learning:
-  - <img src="./img/kr.png" width="40px" height="20px"> 한국어, <img src="./img/jp.png" width="40px" height="20px"> 日本語, <img src="./img/fr.png" width="40px" height="20px"> Français, <img src="./img/italy.png" width="40px" height="20px"> Italiano, <img src="./img/germany.png" width="40px" height="20px"> Deutsch, <img src="./img/netherlands.png" width="40px" height="20px"> Nederlands
+  - <img src="./img/kr.png" width="40px" height="25px"> 한국어, <img src="./img/jp.png" width="40px" height="25px"> 日本語, <img src="./img/fr.png" width="40px" height="25px"> Français, <img src="./img/italy.png" width="40px" height="25px"> Italiano, <img src="./img/germany.png" width="40px" height="25px"> Deutsch, <img src="./img/netherlands.png" width="40px" height="25px"> Nederlands
 - 🎮 Game Engines I'm learning: 
 ![Unity](./img/unity.png#gh-light-mode-only) ![Unity](./img/unity-dark.png#gh-dark-mode-only) ![Unreal](./img/unreal.png#gh-light-mode-only) ![Unreal](./img/unreal-dark.png#gh-dark-mode-only) ![Godot](./img/godot.png) ![Ren'py](./img/renpy.png)
 - 🧩 Frameworks I'm learning:
