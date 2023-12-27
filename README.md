@@ -9,7 +9,7 @@
 - 🎮 Game Engines I'm learning: 
 ![Unity](./img/unity.png#gh-light-mode-only) ![Unity](./img/unity-dark.png#gh-dark-mode-only) ![Unreal](./img/unreal.png#gh-light-mode-only) ![Unreal](./img/unreal-dark.png#gh-dark-mode-only) ![Godot](./img/godot.png)
 - 🧩 Frameworks I'm learning:
-[React](./img/react.png)
+![React](./img/react.png)
 - Web Application Development Tools I'm learning: 
 - Mobile Application Development Tools I'm learning: ![React](./img/react.png)
 - 🎨 Graphic Design Tools I'm learning:
