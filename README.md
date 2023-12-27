@@ -3,7 +3,7 @@
 - 😅 It may seem like I know a lot of things, but I barely know anything on each subject
 - ❤️ I’m interested in doing anything that involves creativity
 - 🧑‍💻 Programming Language I'm learning:
-![Java](./img/java.png) ![Javascript](./img/js.png) ![Python](./img/python.png) ![C++](./img/cpp.png) ![C#](./img/cs.png) ![Kotlin](./img/kotlin.png) ![React](./img/react.png)
+![Java](./img/java.png) ![Javascript](./img/js.png) ![Python](./img/python.png) ![C++](./img/cpp.png) ![C#](./img/cs.png) ![Kotlin](./img/kotlin.png)
 - 🗨️ Languages I'm learning:
   - <img src="./img/kr.png" width="60px" height="40px"> 한국어, <img src="./img/jp.png" width="60px" height="40px"> 日本語, <img src="./img/fr.png" width="60px" height="40px"> Français, <img src="./img/italy.png" width="60px" height="40px"> Italiano, <img src="./img/germany.png" width="60px" height="40px"> Deutsch, <img src="./img/netherlands.png" width="60px" height="40px"> Nederlands
 - 🎮 Game Engines I'm learning: 
