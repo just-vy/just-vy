@@ -5,24 +5,16 @@
 - 🧑‍💻 Programming Language I'm learning:
 ![Java](./img/java.png) ![Javascript](./img/js.png) ![Python](./img/python.png) ![C++](./img/cpp.png) ![C#](./img/cs.png) ![Kotlin](./img/kotlin.png) ![React](./img/react.png)
 - 🗨️ Languages I'm learning:
-한국어, 日本語, Français, Italiano, Deutsch, Nederlands
+  - <img src="./img/kr.png" width="50px" height="40px"> 한국어, <img src="./img/jp.png" width="50px" height="40px"> 日本語, <img src="./img/fr.png" width="50px" height="40px"> Français, <img src="./img/italy.png" width="50px" height="40px"> Italiano, <img src="./img/germany.png" width="50px" height="40px"> Deutsch, <img src="./img/netherland.png" width="50px" height="40px"> Nederlands
 - 🎮 Game Engines I'm learning: 
 ![Unity](./img/unity.png#gh-light-mode-only) ![Unity](./img/unity-dark.png#gh-dark-mode-only) ![Unreal](./img/unreal.png#gh-light-mode-only) ![Unreal](./img/unreal-dark.png#gh-dark-mode-only) ![Godot](./img/godot.png)
 - 🧩 Frameworks I'm learning:
-![React](./img/react.png)
-- Web Application Development Tools I'm learning: 
+![React](./img/react.png) ![jQuery](./img/jquery.png)
+- Web Application Development Tools I'm learning: ![HTML5](./img/html.png) ![CSS3](./img/css.png) ![JS](./img/js-shield.png) ![jQuery](./img/jquery.png)
 - Mobile Application Development Tools I'm learning: ![React](./img/react.png) ![Kotlin](./img/kotlin.png)
-- Databases I'm learning: 
+- Databases I'm learning: ![SQLServer](./img/mssql.png#gh-light-mode-only) ![SQLServer](./img/mssql-dark.png) ![MongoDB](./img/mongo.png) ![DynamoDB](./img/dynamo.png)
 - 🎨 Graphic Design Tools I'm learning:
-![Photoshop](./img/ps.png) ![Illustrator](./img/ai.png) ![After Effects](./img/ae.png) ![Premiere Pro](./img/pr.png) ![Blender](./img/blender.png)
-- 🎹 DAW (Digital Audio Workstation) I'm using: 
-- 💻 Operating Systems I'm using:
-- 💽 Linux Distro I'm using:
-
-<!--- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
-
-<!---
-just-vy/just-vy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Photoshop](./img/ps.png) ![Illustrator](./img/ai.png) ![After Effects](./img/ae.png) ![Premiere Pro](./img/pr.png) ![Blender](./img/blender.png) ![Krita](./img/krita.png)
+- 🎹 DAW (Digital Audio Workstation) I'm using: ![FL Studio](./img/fl.png)
+- 💻 Operating Systems I'm using: ![Window](./img/window.png)
+- 💽 Linux Distro I'm using: ![Arch](./img/arch.png)
