@@ -14,11 +14,11 @@
 - Mobile Application Development Tools I'm learning: ![React](./img/react.png) ![Kotlin](./img/kotlin.png)
 - Databases I'm learning: ![SQLServer](./img/mssql.png#gh-light-mode-only) ![SQLServer](./img/mssql-dark.png) ![MongoDB](./img/mongo.png) ![DynamoDB](./img/dynamo.png)
 - 🎨 Graphic Design Tools I'm learning:
-![Photoshop](./img/ps.png) ![Illustrator](./img/ai.png) ![After Effects](./img/ae.png) ![Premiere Pro](./img/pr.png) ![Blender](./img/blender.png) ![Krita](./img/krita.png)
+![Photoshop](./img/ps.png) ![Illustrator](./img/ai.png) ![After Effects](./img/ae.png) ![Premiere Pro](./img/pr.png) ![Blender](./img/blender.png) ![Krita](./img/krita.png) ![Figma](./img/figma.png)
 - 🎹 DAW (Digital Audio Workstation) I'm using: ![FL Studio](./img/fl.png)
 - 💻 Operating Systems I'm using: ![Window](./img/window.png) ![Linux](./img/linux.png)
 - 💽 Linux Distro I'm using: ![Arch](./img/arch.png)
 - Social Media Links:
-  - <a href="https://www.youtube.com/channel/UC11L_9f8oYKYPPMg1KBKwkQ">Youtube</a>
-  - <a href="https://soundcloud.com/just-vy">Soundcloud</a>
-  - <a href="https://www.duolingo.com/profile/Just_Vy">Duolingo</a>
+  - ![Youtube](./img/youtube.png)<a href="https://www.youtube.com/channel/UC11L_9f8oYKYPPMg1KBKwkQ">Youtube</a>
+  - ![Soundcloud](./img/soundcloud.png)<a href="https://soundcloud.com/just-vy">Soundcloud</a>
+  - ![Duolingo](./img/duolingo.png)<a href="https://www.duolingo.com/profile/Just_Vy">Duolingo</a>
