@@ -5,9 +5,9 @@
 - 🧑‍💻 Programming Language I'm learning:
 ![Java](./img/java.png) ![Javascript](./img/js.png) ![Python](./img/python.png) ![C++](./img/cpp.png) ![C#](./img/cs.png) ![Kotlin](./img/kotlin.png) ![React](./img/react.png)
 - 🗨️ Languages I'm learning:
-  - <img src="./img/kr.png" width="60px" height="40px"> 한국어, <img src="./img/jp.png" width="60px" height="40px"> 日本語, <img src="./img/fr.png" width="60px" height="40px"> Français, <img src="./img/italy.png" width="60px" height="40px"> Italiano, <img src="./img/germany.png" width="60px" height="40px"> Deutsch, <img src="./img/netherland.png" width="60px" height="40px"> Nederlands
+  - <img src="./img/kr.png" width="60px" height="40px"> 한국어, <img src="./img/jp.png" width="60px" height="40px"> 日本語, <img src="./img/fr.png" width="60px" height="40px"> Français, <img src="./img/italy.png" width="60px" height="40px"> Italiano, <img src="./img/germany.png" width="60px" height="40px"> Deutsch, <img src="./img/netherlands.png" width="60px" height="40px"> Nederlands
 - 🎮 Game Engines I'm learning: 
-![Unity](./img/unity.png#gh-light-mode-only) ![Unity](./img/unity-dark.png#gh-dark-mode-only) ![Unreal](./img/unreal.png#gh-light-mode-only) ![Unreal](./img/unreal-dark.png#gh-dark-mode-only) ![Godot](./img/godot.png)
+![Unity](./img/unity.png#gh-light-mode-only) ![Unity](./img/unity-dark.png#gh-dark-mode-only) ![Unreal](./img/unreal.png#gh-light-mode-only) ![Unreal](./img/unreal-dark.png#gh-dark-mode-only) ![Godot](./img/godot.png) ![Ren'py](./img/renpy.png)
 - 🧩 Frameworks I'm learning:
 ![React](./img/react.png) ![jQuery](./img/jquery.png) ![Spring](./img/spring.png)
 - Web Application Development Tools I'm learning: ![HTML5](./img/html.png) ![CSS3](./img/css.png) ![JS](./img/js-shield.png) ![jQuery](./img/jquery.png) ![Bootstrap](./img/bootstrap.png) ![Tailwind CSS](./img/tailwind.png) ![ThreeJS](./img/three.png)
