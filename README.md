@@ -11,7 +11,7 @@
 - 🧩 Frameworks I'm learning:
 ![React](./img/react.png)
 - Web Application Development Tools I'm learning: 
-- Mobile Application Development Tools I'm learning: ![React](./img/react.png)
+- Mobile Application Development Tools I'm learning: ![React](./img/react.png) ![Kotlin](./img/kotlin.png)
 - 🎨 Graphic Design Tools I'm learning:
 ![Photoshop](./img/ps.png) ![Illustrator](./img/ai.png) ![After Effects](./img/ae.png) ![Premiere Pro](./img/pr.png) ![Blender](./img/blender.png)
 - 🎹 DAW (Digital Audio Workstation) I'm using: 
