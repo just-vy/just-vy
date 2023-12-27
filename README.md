@@ -12,17 +12,9 @@
 ![React](./img/react.png) ![jQuery](./img/jquery.png)
 - Web Application Development Tools I'm learning: ![HTML5](./img/html.png) ![CSS3](./img/css.png) ![JS](./img/js-shield.png) ![jQuery](./img/jquery.png)
 - Mobile Application Development Tools I'm learning: ![React](./img/react.png) ![Kotlin](./img/kotlin.png)
-- Databases I'm learning: ![SQLServer](./img/mssql.png#gh-light-mode-only) ![SQLServer](./img/mssql-dark.png#gh-dark-mode-only) ![MongoDB](./img/mongo.png) ![DynamoDB](./img/dynamo.png)
+- Databases I'm learning: ![SQLServer](./img/mssql.png#gh-light-mode-only) ![SQLServer](./img/mssql-dark.png) ![MongoDB](./img/mongo.png) ![DynamoDB](./img/dynamo.png)
 - 🎨 Graphic Design Tools I'm learning:
 ![Photoshop](./img/ps.png) ![Illustrator](./img/ai.png) ![After Effects](./img/ae.png) ![Premiere Pro](./img/pr.png) ![Blender](./img/blender.png) ![Krita](./img/krita.png)
 - 🎹 DAW (Digital Audio Workstation) I'm using: ![FL Studio](./img/fl.png)
 - 💻 Operating Systems I'm using: ![Window](./img/window.png)
 - 💽 Linux Distro I'm using: ![Arch](./img/arch.png)
-
-<!-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...-->
-
-<!--
-just-vy/just-vy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
