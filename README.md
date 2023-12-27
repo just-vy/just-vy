@@ -5,10 +5,8 @@
 ![Java](./img/java.png) ![Javascript](./img/js.png) ![Python](./img/python.png) ![C++](./img/cpp.png) ![C#](./img/cs.png) ![Kotlin](./img/kotlin.png) ![React](./img/react.png)
 - 🎮 Game Engines I'm currently learning: 
 ![Unity](./img/unity.png#gh-light-mode-only) ![Unity](./img/unity-dark.png#gh-dark-mode-only) ![Unreal](./img/unreal.png#gh-light-mode-only) ![Unreal](./img/unreal-dark.png#gh-dark-mode-only) ![Godot](./img/godot.png)
-- 🖼️ Render Engine I'm currently learning:
-![Blender](./img/blender.png)
 - 🎨 Graphic Design Program I'm currently learning:
-![Photoshop](./img/ps.png) ![Illustrator](./img/ai.png) ![After Effects](./img/ae.png) ![Premiere Pro](./img/pr.png) 
+![Photoshop](./img/ps.png) ![Illustrator](./img/ai.png) ![After Effects](./img/ae.png) ![Premiere Pro](./img/pr.png) ![Blender](./img/blender.png)
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
