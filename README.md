@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vy
 - 👀 I’m interested in doing anything that involves creativity
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
