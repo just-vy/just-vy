@@ -19,6 +19,6 @@
 - 💻 Operating Systems I'm using: ![Window](./img/window.png) ![Linux](./img/linux.png)
 - 💽 Linux Distro I'm using: ![Arch](./img/arch.png)
 - Social Media Links:
-  - <a href="channel/UC11L_9f8oYKYPPMg1KBKwkQ">Youtube</a>
+  - <a href="https://www.youtube.com/channel/UC11L_9f8oYKYPPMg1KBKwkQ">Youtube</a>
   - <a href="https://soundcloud.com/just-vy">Soundcloud</a>
   - <a href="https://www.duolingo.com/profile/Just_Vy">Duolingo</a>
