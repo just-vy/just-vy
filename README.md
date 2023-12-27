@@ -5,12 +5,18 @@
 - 🧑‍💻 Programming Language I'm learning:
 ![Java](./img/java.png) ![Javascript](./img/js.png) ![Python](./img/python.png) ![C++](./img/cpp.png) ![C#](./img/cs.png) ![Kotlin](./img/kotlin.png) ![React](./img/react.png)
 - 🗨️ Languages I'm learning:
-  - 한국어![Korean](./img/kr.png)
-  - 日本語![Japanese](./img/jp.png)
-  - Français![French](./img/fr.png)
-  - Italiano![Italian](./img/italy.png)
-  - Deutsch![German](./img/germany.png)
-  - Nederlands![Netherlannds](./img/netherland.png)
+  - 한국어 <img src="./img/kr.png" width="40px" height="40px">
+  <!--![Korean](./img/kr.png)-->
+  - 日本語 <img src="./img/jp.png" width="40px" height="40px">
+  <!--![Japanese](./img/jp.png)-->
+  - Français <img src="./img/fr.png" width="40px" height="40px">
+  <!--![French](./img/fr.png)-->
+  - Italiano <img src="./img/italy.png" width="40px" height="40px">
+  <!--![Italian](./img/italy.png)-->
+  - Deutsch <img src="./img/germany.png" width="40px" height="40px">
+  <!--![German](./img/germany.png)-->
+  - Nederlands <img src="./img/netherland.png" width="40px" height="40px">
+  <!--![Netherlannds](./img/netherland.png)-->
 - 🎮 Game Engines I'm learning: 
 ![Unity](./img/unity.png#gh-light-mode-only) ![Unity](./img/unity-dark.png#gh-dark-mode-only) ![Unreal](./img/unreal.png#gh-light-mode-only) ![Unreal](./img/unreal-dark.png#gh-dark-mode-only) ![Godot](./img/godot.png)
 - 🧩 Frameworks I'm learning:
@@ -24,10 +30,10 @@
 - 💻 Operating Systems I'm using:
 - 💽 Linux Distro I'm using:
 
-<!--- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
+<!-- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...-->
 
-<!---
+<!--
 just-vy/just-vy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
