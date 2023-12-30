@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vy
 - ✨ My goal is to become jack of all trades
-- 😅 It may seem like I know a lot of things, but I barely know anything on each subject
 - ❤️ I’m interested in doing anything that involves creativity
 - 🧑‍💻 Programming Languages I'm learning:
 ![Java](./img/java.png) ![Javascript](./img/js.png) ![Python](./img/python.png) ![C++](./img/cpp.png) ![C#](./img/cs.png) ![Kotlin](./img/kotlin.png)
